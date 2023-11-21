@@ -13,7 +13,7 @@ For further details, please visit: https://wiki.melissadata.com/images/9/93/DQT_
 ## Tested Environments
 
 - Windows 64-bit Python 3.8.7
-- Melissa Email Object for 2023-10
+- Melissa Email Object for 2023-11
 
 ## Getting Started
 
