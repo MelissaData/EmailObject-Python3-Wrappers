@@ -6,23 +6,23 @@ This is the code for you to run Email Object in Python3.
     
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For latest Melissa Email Object release notes, please visit: https://releasenotes.melissa.com/on-premise-api/email-object/
+To view the latest Melissa Email Object release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/email-object/
 
 For further details, please visit: https://wiki.melissadata.com/images/9/93/DQT_API_Email_RG.pdf
 
 ## Tested Environments
 
-- Windows 10 64-bit Python 3.8.7, Powershell 5.1
+- Windows 11 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa Email Object for 2026-01
+- Melissa Email Object for 2026-02
 - Wrapper file(s) have not changed since 2025-07
 
 ## Getting Started
 
 ### Download this project
 ```
-git clone https://github.com/MelissaData/EmailObject-Python3-Wrappers
-cd EmailObject-Python3-Wrappers
+git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissaemailobjectpython3wrappers
+cd melissaemailobjectpython3wrappers
 ```
 
 ### Copy wrappers to your project folder
