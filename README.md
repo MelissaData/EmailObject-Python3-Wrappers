@@ -21,8 +21,8 @@ For further details, please visit: https://wiki.melissadata.com/images/9/93/DQT_
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissaemailobjectpython3wrappers
-cd melissaemailobjectpython3wrappers
+git clone https://github.com/MelissaData/EmailObject-Python3-Wrappers
+cd EmailObject-Python3-Wrappers
 ```
 
 ### Copy wrappers to your project folder
